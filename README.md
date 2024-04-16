@@ -53,7 +53,3 @@
 <img align="right" height="400" src="https://i.imgflip.com/8myqjw.gif"  />
 
 ###
-
-![Snake animation](https://github.com/AdelitaMartinez/AdelitaMartinez/blob/output/github-contribution-grid-snake.svg)
-
-###
