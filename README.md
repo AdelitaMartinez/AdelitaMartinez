@@ -54,6 +54,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AdelitaMartinez/AdelitaMartinez/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/AdelitaMartinez/AdelitaMartinez/blob/output/github-contribution-grid-snake.svg)
 
 ###
