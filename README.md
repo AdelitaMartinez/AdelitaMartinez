@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">Hello World! 👋 My name is Adelita and I'm a Software Developer from New Mexico</h2>
+<h2 align="center">Hello World! 👋 My name is Adelita and I'm a FullStack Developer from New Mexico</h2>
 
 ###
 
